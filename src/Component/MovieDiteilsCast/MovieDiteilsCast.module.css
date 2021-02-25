@@ -1,0 +1,15 @@
+.ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+}
+.li {
+  margin-left: 20px;
+  width: 200px;
+  text-align: center;
+}
+.img {
+  width: 150px;
+  height: 200px;
+}

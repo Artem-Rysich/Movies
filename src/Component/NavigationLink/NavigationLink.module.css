@@ -1,0 +1,22 @@
+.Link {
+  color: black;
+}
+.LinkActive {
+  color: palevioletred;
+}
+
+.ul {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  border-bottom: 1px solid black;
+  background-color: lightslategray;
+}
+.li {
+  margin-top: 25px;
+  font-size: 35px;
+}
